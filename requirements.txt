@@ -1,0 +1,11 @@
+pandas
+numpy
+gdown
+Pillow
+torchvision
+torcheval
+tensorboard
+kagglehub
+streamlit
+opencv-python-headless
+mediapipe==0.10.14
